@@ -21,6 +21,7 @@
             <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=true&random=false&width=435&lines=What+I+Know;What+I+Barely+Know" alt="Typing SVG" />
         </a>
     </h2>
+    <p>Python</p>
     <h2 align="center">
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=true&random=false&width=435&lines=Currently+Learning;Struggling+To+Learn" alt="Typing SVG" />
