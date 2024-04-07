@@ -35,3 +35,20 @@
         <img height=115 align="center" src="https://github-readme-stats.vercel.app/api?username=joshyonvenus&show_icons=true&locale=en&bg_color=00000000&hide_border=true&hide_title=true" alt="joshyonvenus"/><img height=115 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshyonvenus&layout=compact&langs_count=8&bg_color=00000000&hide_border=true"/>
     </p>
 </div>
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
