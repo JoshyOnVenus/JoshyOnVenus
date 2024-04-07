@@ -6,7 +6,7 @@
 <div text-align=center align="left" font-color=#5e5e5e>
     <h2 align="center">
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&random=false&width=435&lines=About Me" alt="Typing SVG" />
+            <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=false&random=false&width=435&lines=About Me" alt="Typing SVG" />
         </a>
     </h2>
     <p>I am a 16 year old who loves Space, Physics & Programming.</p>
