@@ -21,7 +21,10 @@
             <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=true&random=false&width=435&lines=What+I+Know;What+I+Barely+Know" alt="Typing SVG" />
         </a>
     </h2>
-    a
+    <div align="center">
+        <img src="icons/python.svg" width=50 height=50/>
+        <img src="icons/discord.svg" width=50 height=50/>
+    </div>
     <h2 align="center">
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=true&random=false&width=435&lines=Currently+Learning;Struggling+To+Learn" alt="Typing SVG" />
