@@ -111,7 +111,7 @@
         </a>
     </h2>
     <div align="center">
-        <h4>I have <i title="I mean it's alright I guess">decent</i> knowledge with <a href="https://www.python.org">Python</a> and <a href="https://discordpy.readthedocs.io/en/stable/">Discord.py</a>, I have created several <a href="https://discord.com/developers/docs/intro">Discord Bots</a> using these, These Bots allow users to interact with them using various commands that will be custom made to the Bots.</h4>
+        <h4>I have <i title="I mean it's alright I guess">decent</i> knowledge with <a href="https://www.python.org">Python</a> and <a href="https://discordpy.readthedocs.io/en/stable/">Discord.py</a>, I have created several <a href="https://discord.com/developers/docs/intro">Discord Bots</a> using these, These Bots allow users to interact with them using various commands that will be custom made to the Bots</h4>
         <img src="icons/python.svg" width=50 height=50/>
         <img src="icons/discord.svg" width=50 height=50/>
         <h4>I also have experience with <a href="https://ksp-kos.github.io/KOS/language.html">KerboScript</a>, A less well-known programming language that is actually part of a mod called <a href="https://ksp-kos.github.io/KOS/">Kerbal Operating System</a> for the more well-known game, <a href="https://www.kerbalspaceprogram.com/">Kerbal Space Program</a></h4>
