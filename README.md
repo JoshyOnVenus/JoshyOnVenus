@@ -112,9 +112,9 @@
     </h2>
     <div align="center">
         <h4>I have <i title="I mean it's alright I guess">decent</i> knowledge with Python and Discord.py, I have created several Discord Bots using Discord.py and Python, These Bots allow users to interact with them using various commands that will be custom made to the Bots.</h4>
-        <h4>I also have experience with kerboscript, A less well-known programming language that is actually part of a mod called <a href="https://ksp-kos.github.io/KOS/">Kerbal Operating System</a> for the more well-known game, <a href="https://www.kerbalspaceprogram.com/">Kerbal Space Program</a></h4>
         <img src="icons/python.svg" width=50 height=50/>
         <img src="icons/discord.svg" width=50 height=50/>
+        <h4>I also have experience with kerboscript, A less well-known programming language that is actually part of a mod called <a href="https://ksp-kos.github.io/KOS/">Kerbal Operating System</a> for the more well-known game, <a href="https://www.kerbalspaceprogram.com/">Kerbal Space Program</a></h4>
     </div>
     <h2 align="center">
         <a href="https://git.io/typing-svg">
