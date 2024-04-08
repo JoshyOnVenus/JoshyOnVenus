@@ -11,70 +11,94 @@
     </h2>
     <div align="left">
         <ul>
-            <li>
                 <h3 title="My Birthday Is October 20th!">
                     🧑 16 Years Old
                 </h3>
-            </li>
-            <li>
                 <h3>
                     📚 Student studying GCSE's
                 </h3>
                 <ul>
-                    <li>
+                    <ul>
                         <h4>
                             👨‍💻 Computer Science - <i>Favourite Subject</i>
                         </h4>
-                    </li>
-                    <li>
+                    </ul>
+                    <ul>
                         <h4>
                             💻 Graphic Design - <i>Alright Subject</i>
                         </h4>
-                    </li>
-                    <li>
+                    </ul>
+                    <ul>
                         <h4>
                             💼 Business Studies - <i>"I'm Just Good At It" Subject</i>
                         </h4>
-                    </li>
-                    <li>
+                    </ul>
+                    <ul>
                         <h4>
                             ➕ Core Subjects - <i>We Don't Talk About RE and English...</i>
                         </h4>
-                    </li>
+                    </ul>
                 </ul>
-            </li>
-            <li>
+                <h3>
+                    🎓 After GCSE's?
+                </h3>
+                <ul>
+                    <ul>
+                        <h4>
+                            🏫 I hope to stay at my schools' Sixth Form to do A-Levels - <i>There might be a trip to see the Large Hadron Colider!</i>
+                        </h4>
+                    </ul>
+                    <ul>
+                        <h4>
+                            📚 And study...
+                        </h4>
+                        <ul>
+                            <h4>
+                                👨‍💻 Computer Science
+                            </h4>
+                        </ul>
+                        <ul>
+                            <h4>
+                                🌌 Physics
+                            </h4>
+                        </ul>
+                        <ul>
+                            <h4>
+                                📘 Maths
+                            </h4>
+                        </ul>
+                    </ul>
+                </ul>
                 <h3>
                     😻 My Favourite Things
                 </h3>
                 <ul>
-                    <li>
+                    <ul>
                         <h4>
                             🌌 Space and Physics
                         </h4>
-                    </li>
-                    <li>
+                    </ul>
+                    <ul>
                         <h4>
                             🚀 Rockets
                         </h4>
-                    </li>
-                    <li>
+                    </ul>
+                    <ul>
                         <h4>
                             🎢 Rollercoasters
                         </h4>
-                    </li>
-                    <li>
+                    </ul>
+                    <ul>
                         <h4>
                             👨‍💻 Programming
                         </h4>
-                    </li>
+                    </ul>
                 </ul>
-            </li>
         </ul>
     </div>
     <div align="center">
     <br><br><br>
-    <h3>Now Playing — Spotify 🎧</h3>
+    <h3>🎧 What I'm Listening To</h3>
         <p>
             <a href="https://spotify-github-profile.vercel.app/api/view?uid=dw0qwoccs2gpidexk0cf252u5&redirect=true">
                 <img src="https://spotify-github-profile.vercel.app/api/view?uid=dw0qwoccs2gpidxek0cf252u5&redirect=true](https://spotify-github-profile.vercel.app/api/view?uid=dw0qwoccs2gpidxek0cf252u5&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
