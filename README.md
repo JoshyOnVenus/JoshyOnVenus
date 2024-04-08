@@ -3,7 +3,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I+am+Joshua+Matthews+%3A-);I+am+16+years+old;Currently+revising+for+GCSE's" alt="Typing SVG" />
     </a>
 </h2>
-<div text-align=center align="left" font-color=#5e5e5e>
+<div text-align="center" align="left" font-color=#5e5e5e>
     <h2 align="center">
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=true&random=false&width=435&lines=About+Me;Very+(not)+Interesting" alt="Typing SVG" />
@@ -21,7 +21,7 @@
             <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=true&random=false&width=435&lines=What+I+Know;What+I+Barely+Know" alt="Typing SVG" />
         </a>
     </h2>
-    <p>Python</p>
+    a
     <h2 align="center">
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=true&random=false&width=435&lines=Currently+Learning;Struggling+To+Learn" alt="Typing SVG" />
@@ -35,20 +35,8 @@
         <img height=115 align="center" src="https://github-readme-stats.vercel.app/api?username=joshyonvenus&show_icons=true&locale=en&bg_color=00000000&hide_border=true&hide_title=true" alt="joshyonvenus"/><img height=115 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshyonvenus&layout=compact&langs_count=8&bg_color=00000000&hide_border=true"/>
     </p>
 </div>
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
+<!--
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=dw0qwoccs2gpidxek0cf252u5">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=dw0qwoccs2gpidxek0cf252u5&show_border=false&hide_title=true&show_date=false&hide_top_tracks=true" alt="Data Card for Spotify">
+</a>
+-->
