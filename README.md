@@ -3,12 +3,15 @@
         <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I+am+Joshua+Matthews+%3A-);I+am+16+years+old;Currently+revising+for+GCSE's" alt="Typing SVG" />
     </a>
 </h2>
-<div text-align="center" align="left" font-color=#5e5e5e>
-    <h2 align="center">
+<div text-align="center" align="left">
+    <h1 align="center">
+        About Me
+        <!--
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=true&random=false&width=435&lines=About+Me;Very+(not)+Interesting" alt="Typing SVG" />
         </a>
-    </h2>
+        -->    
+    </h1>
     <div align="left">
         <ul>
                 <h3 title="My Birthday Is October 20th!">
@@ -96,7 +99,7 @@
                 </ul>
         </ul>
     </div>
-    <div align="center">
+    <div align="left">
     <br><br><br>
     <h3>🎧 What I'm Listening To</h3>
         <p>
@@ -105,22 +108,30 @@
             </a>
         </p>
     </div>
-    <h2 align="center">
+    <h1 align="center">
+        What I Know
+        <!--
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=true&random=false&width=435&lines=What+I+Know;What+I+Barely+Know" alt="Typing SVG" />
         </a>
-    </h2>
+        -->
+    </h1>
     <div align="center">
         <h4>I have <i title="I mean it's alright I guess">decent</i> knowledge with <a href="https://www.python.org">Python</a> and <a href="https://discordpy.readthedocs.io/en/stable/">Discord.py</a>, I have created several <a href="https://discord.com/developers/docs/intro">Discord Bots</a> using these, These Bots allow users to interact with them using various commands that will be custom made to the Bots</h4>
         <img src="icons/python.svg" width=50 height=50/>
         <img src="icons/discord.svg" width=50 height=50/>
         <h4>I also have experience with <a href="https://ksp-kos.github.io/KOS/language.html">KerboScript</a>, A less well-known programming language that is actually part of a mod called <a href="https://ksp-kos.github.io/KOS/">Kerbal Operating System</a> for the more well-known game, <a href="https://www.kerbalspaceprogram.com/">Kerbal Space Program</a></h4>
     </div>
-    <h2 align="center">
+    <br>
+    <br>
+    <h1 align="center">
+        Currently Learning
+        <!--
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=true&random=false&width=435&lines=Currently+Learning;Struggling+To+Learn" alt="Typing SVG" />
         </a>
-    </h2>
+        -->
+    </h1>
     <div align="center">
         <h4>Starting to learn Front-End Web Development so I can create a 'portfolio' like webpage</h4>
         <img src="icons/html5.svg" width=50 height=50/>
@@ -129,17 +140,17 @@
         <h4>I am also learning <a href="https://www.sqlite.org">Sqlite</a> to create databases that are stored on my <a href="https://www.raspberrypi.com">Raspberry PI</a>, These databases are used for my previously mentioned Discord Bots</h4>
         <img src="icons/sqlite.svg" width=50 height=50/>
     </div>
-    <h2 align="center">
+    <br>
+    <br>
+    <h1 align="center">
+        GitHub Statistics
+        <!--
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=4000&pause=1000&color=3783FF&background=FFFFFF00&center=true&vCenter=false&repeat=true&random=false&width=435&lines=GitHub+Statistics" alt="Typing SVG" />
         </a>
-    </h2>
+        -->
+    </h1>
     <p align="center">
         <img height=115 align="center" src="https://github-readme-stats.vercel.app/api?username=joshyonvenus&show_icons=true&locale=en&bg_color=00000000&hide_border=true&hide_title=true" alt="joshyonvenus"/><img height=115 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshyonvenus&layout=compact&langs_count=8&bg_color=00000000&hide_border=true"/>
     </p>
 </div>
-<!--
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=dw0qwoccs2gpidxek0cf252u5">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=dw0qwoccs2gpidxek0cf252u5&show_border=false&hide_title=true&show_date=false&hide_top_tracks=true" alt="Data Card for Spotify">
-</a>
--->
